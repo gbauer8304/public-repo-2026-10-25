@@ -1,0 +1,18 @@
+{
+  "name": "Nos dates à distance — Pour Maëlys",
+  "short_name": "Pour Maëlys",
+  "description": "Des rendez-vous romantiques et gaming pour un couple à distance.",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fce6f4",
+  "theme_color": "#6d3b83",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
